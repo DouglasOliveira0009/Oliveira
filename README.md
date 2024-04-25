@@ -53,3 +53,16 @@ let indiceAbacaxi = frutas.indexOf("Abacaxi");
 console.log("O índice da palavra 'Abacaxi' é:", indiceAbacaxi);
 console.log("O tamanho do array é:", frutas.length);
 
+
+
+
+DESAFIO FUNÇÃO 
+
+function somarNumeros(n1, n2){
+    let soma = n1=n2
+    return soma
+}
+
+let resultado = somarNumeros(1, 1)
+console.log(resultado)
+
